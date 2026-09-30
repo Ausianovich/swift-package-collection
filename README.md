@@ -84,7 +84,8 @@ package-collection-generate \
   packages.json \
   collection-unsigned.json \
   --auth-token "github:github.com:${GITHUB_TOKEN}" \
-  --pretty-printed
+  --pretty-printed \
+  --verbose
 
 unset GITHUB_TOKEN
 ```
