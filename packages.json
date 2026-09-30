@@ -22,6 +22,15 @@
     },
     {
       "url": "https://github.com/Ausianovich/KeyChain.git"
+    },
+    {
+      "url": "https://github.com/Ausianovich/AppReviewRequest.git"
+    },
+    {
+      "url": "https://github.com/Ausianovich/AppGlobalState.git"
+    },
+    {
+      "url": "https://github.com/Ausianovich/AppAttestVapor.git"
     }
   ],
   "author": {
