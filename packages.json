@@ -1,0 +1,30 @@
+
+{
+  "name": "Ausianovich Packages",
+  "overview": "Reusable Swift packages for my iOS projects",
+  "keywords": [
+    "ios",
+    "swift",
+    "swiftui",
+    "TCA",
+    "Dependencies",
+    "Sharing"
+  ],
+  "packages": [
+    {
+      "url": "https://github.com/pointfreeco/swift-composable-architecture.git"
+    },
+    {
+      "url": "https://github.com/pointfreeco/swift-dependencies.git"
+    },
+    {
+      "url": "https://github.com/pointfreeco/swift-dependencies.git"
+    },
+    {
+      "url": "https://github.com/Ausianovich/KeyChain.git"
+    }
+  ],
+  "author": {
+    "name": "Konstantin Ausianovich"
+  }
+}
