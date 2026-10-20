@@ -8,7 +8,8 @@
     "swiftui",
     "TCA",
     "Dependencies",
-    "Sharing"
+    "Sharing",
+    "NotificationRequest"
   ],
   "packages": [
     {
@@ -34,9 +35,12 @@
     },
     {
       "url": "https://github.com/Ausianovich/AppAttestVapor.git"
+    },
+    {
+      "url": "https://github.com/Ausianovich/NotificationRequest.git"
     }
   ],
   "author": {
-    "name": "Konstantin Ausianovich"
+    "name": "Kanstantsin Ausianovich"
   }
 }
