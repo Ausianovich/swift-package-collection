@@ -37,7 +37,9 @@
       "url": "https://github.com/Ausianovich/AppAttestVapor.git"
     },
     {
-      "url": "https://github.com/Ausianovich/NotificationRequest.git"
+      "url": "https://github.com/Ausianovich/NotificationRequest.git",
+      "versions": ["1.0.1"],
+      "readmeURL": "https://github.com/Ausianovich/NotificationRequest/blob/master/README.md"
     }
   ],
   "author": {
